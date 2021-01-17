@@ -4,7 +4,7 @@ Bot built using MS BotFramework for a Bank. Uses LUIS intent classifier, QnA Mak
 # Prerequisites
 A ".env" file containing:
 
-MicrosoftAppId="" (Optional) <br>
+```MicrosoftAppId="" (Optional) <br>
 MicrosoftAppPassword="" (Optional)
 
 QnAKnowledgebaseId="" <br>
@@ -19,6 +19,8 @@ InstrumentationKey=
 
 COG_Endpoint=""<br>
 COG_SUB_KEY=""
+```
+And a dispatch file combinig LUIS and QnAMaker (Refer to Microsoft's Documentation)
 
 # To Run
 ``npm install``<br>
