@@ -1,0 +1,5 @@
+No	Intent	Utterance Count	Utterance Average Length	Utterance Maximum Length	Utterance Minimum Length	Utterance Length StdDev
+0	l_Banking	27	22.40741	35	10	6.61152
+1	q_banking-qna	9779	22.89784	81	1	8.79952
+2	None	3	15.66667	21	11	5.03322
+ 	__ALL__	9809	22.89428	81	1	8.79388

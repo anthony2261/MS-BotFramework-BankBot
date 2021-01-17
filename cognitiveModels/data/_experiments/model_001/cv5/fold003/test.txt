@@ -1,0 +1,1963 @@
+Label	Weight	Text
+l_Banking	1	show me transaction 7
+l_Banking	1	i want to make a transaction
+l_Banking	1	i wish to send a sum of money
+l_Banking	1	i want to see transaction 2
+l_Banking	1	i want to see my account
+None	1	i want them all
+q_banking-qna	1	This news left me exasperated
+q_banking-qna	1	My whole life is depressing
+q_banking-qna	1	Between you or me, who is the smartest
+q_banking-qna	1	I am logging off now
+q_banking-qna	1	I'm planning to end my life this month
+q_banking-qna	1	Between you and me who is cuter
+q_banking-qna	1	Perfect
+q_banking-qna	1	So how can I use you in my projects
+q_banking-qna	1	Enjoy the evening
+q_banking-qna	1	I love video games
+q_banking-qna	1	Merry Festivus
+q_banking-qna	1	Do you think I look lovely today
+q_banking-qna	1	I want to know your name
+q_banking-qna	1	How's Monday
+q_banking-qna	1	How is your Wednesday going so far
+q_banking-qna	1	I'm feeling glum today
+q_banking-qna	1	I don't want to hear anything you have to say
+q_banking-qna	1	That's right
+q_banking-qna	1	That's not what I want to hear
+q_banking-qna	1	whatever
+q_banking-qna	1	Which of us is the most intelligent
+q_banking-qna	1	I was just having a laugh
+q_banking-qna	1	Which of us is the smartest
+q_banking-qna	1	What do you think about AI
+q_banking-qna	1	Time for you to hush up
+q_banking-qna	1	Stop messing up
+q_banking-qna	1	Are you there to chat to me
+q_banking-qna	1	What things do you know about me
+q_banking-qna	1	I'm about to lose my temper
+q_banking-qna	1	I plan to cut myself this month
+q_banking-qna	1	Well you're feeling cheerful today.
+q_banking-qna	1	That is a very genius answer
+q_banking-qna	1	I'm gonna get going now
+q_banking-qna	1	In a heartbeat
+q_banking-qna	1	Back in just a second
+q_banking-qna	1	I apologize for that
+q_banking-qna	1	Can you make a sculpture
+q_banking-qna	1	Shush
+q_banking-qna	1	How has the day been treating ya
+q_banking-qna	1	I'm so pissed off
+q_banking-qna	1	You are razor sharp
+q_banking-qna	1	I'm clearly more clever
+q_banking-qna	1	Would you get bangs if you were me
+q_banking-qna	1	Are you local
+q_banking-qna	1	You seem really upbeat
+q_banking-qna	1	I plan to jump off a bridge today
+q_banking-qna	1	You keep saying the same thing all the time
+q_banking-qna	1	Should I eat Chinese food
+q_banking-qna	1	I'm cracking up
+q_banking-qna	1	Sing a song to me
+q_banking-qna	1	I'd love you to be my BFF
+q_banking-qna	1	What's your sex
+q_banking-qna	1	How's your Thursday
+q_banking-qna	1	Are you going to bring about armageddon
+q_banking-qna	1	I think you're not actually fake
+q_banking-qna	1	Describe the perfect match
+q_banking-qna	1	Can you sneeze
+q_banking-qna	1	I can't stand feeling so inconsolable
+q_banking-qna	1	You are the object of my affection
+q_banking-qna	1	Listening to you is like listening to a Ted Talk from the color Beige
+q_banking-qna	1	I love a good book
+q_banking-qna	1	That was not very funny
+q_banking-qna	1	Leaving now
+q_banking-qna	1	I love cuddling
+q_banking-qna	1	What is your opinion of Siri
+q_banking-qna	1	When will I ever stop feeling so downcast
+q_banking-qna	1	Somebody's cheerful.
+q_banking-qna	1	You're dumb
+q_banking-qna	1	Are you committed to anyone
+q_banking-qna	1	I am a Communist
+q_banking-qna	1	Should I walk to work
+q_banking-qna	1	Fair
+q_banking-qna	1	Stop all your noise
+q_banking-qna	1	Everything you told me was false
+q_banking-qna	1	Somebody's feeling enthusiastic.
+q_banking-qna	1	You are so useless
+q_banking-qna	1	I'm so happy
+q_banking-qna	1	All I can think about is missing you
+q_banking-qna	1	We're BFFs
+q_banking-qna	1	Are you friends with Google
+q_banking-qna	1	Your jokes are lame
+q_banking-qna	1	Do you hate my guts
+q_banking-qna	1	do you like fluffy things
+q_banking-qna	1	You are now unemployed
+q_banking-qna	1	I'm not sure what to call you.
+q_banking-qna	1	I can't stand feeling so despairing
+q_banking-qna	1	What can I inform you about
+q_banking-qna	1	I have to jet
+q_banking-qna	1	Well done my friend
+q_banking-qna	1	It's a brand new day
+q_banking-qna	1	That was really not funny
+q_banking-qna	1	Who's your brother
+q_banking-qna	1	Open a hailing frequency
+q_banking-qna	1	I love NYC
+q_banking-qna	1	What is the skinny
+q_banking-qna	1	I miss you
+q_banking-qna	1	I better hit the hay
+q_banking-qna	1	hahahaha good one
+q_banking-qna	1	I am angry
+q_banking-qna	1	What is the best way to spend a weekend
+q_banking-qna	1	Perfect response
+q_banking-qna	1	Do you think you're smarter than me
+q_banking-qna	1	Gimme the dirt
+q_banking-qna	1	I am a Taurus
+q_banking-qna	1	I'm out
+q_banking-qna	1	Ciao
+q_banking-qna	1	Do you think I am appealing today
+q_banking-qna	1	How I've missed you
+q_banking-qna	1	You're not a computer right
+q_banking-qna	1	Should I read a book
+q_banking-qna	1	Gimme the 411
+q_banking-qna	1	I can't stop laughing
+q_banking-qna	1	Would you ask me something about myself
+q_banking-qna	1	Who's your manager
+q_banking-qna	1	Which baseball teams do you like
+q_banking-qna	1	Stop it with the humor
+q_banking-qna	1	Which are your functions
+q_banking-qna	1	I am logging out now
+q_banking-qna	1	You keep repeating the same stuff
+q_banking-qna	1	I love to sing
+q_banking-qna	1	Well aren't you feeling cheerful
+q_banking-qna	1	Time to shut up now
+q_banking-qna	1	What's a good joke
+q_banking-qna	1	What's cracking
+q_banking-qna	1	Are you currently involved with someone
+q_banking-qna	1	I'm about to drown
+q_banking-qna	1	I am despondent
+q_banking-qna	1	You're not a lifeform right
+q_banking-qna	1	I'll be back after my shift
+q_banking-qna	1	I love trees
+q_banking-qna	1	I'm about to sign out
+q_banking-qna	1	What's happening with you
+q_banking-qna	1	You are really idiotic
+q_banking-qna	1	I'm packing for a trip
+q_banking-qna	1	What's your opinion of Google Assistant
+q_banking-qna	1	Let's walk down the aisle
+q_banking-qna	1	what do you have responses for
+q_banking-qna	1	Between you and me who is more attractive
+q_banking-qna	1	what the heck does that mean
+q_banking-qna	1	You're falling for me
+q_banking-qna	1	Your responses don't change
+q_banking-qna	1	You know it
+q_banking-qna	1	Bixby does a better job than you
+q_banking-qna	1	Is someone around to talk
+q_banking-qna	1	It's time to feed the dog
+q_banking-qna	1	I am a jolly person
+q_banking-qna	1	It's suppertime
+q_banking-qna	1	How did you get created
+q_banking-qna	1	do you like madrid
+q_banking-qna	1	How pretty do you think I am today
+q_banking-qna	1	I'm a little hungry
+q_banking-qna	1	Looks like you'd better start job hunting
+q_banking-qna	1	Are you a danger to humans
+q_banking-qna	1	I'm obviously more knowledgeable
+q_banking-qna	1	Is anybody around to chat to me
+q_banking-qna	1	I'm so confused right now
+q_banking-qna	1	I am logging off
+q_banking-qna	1	Do you think I am stunning today
+q_banking-qna	1	Could it be I'm falling in love
+q_banking-qna	1	What are my fears
+q_banking-qna	1	How is your Tuesday going so far
+q_banking-qna	1	I am peeved
+q_banking-qna	1	Happy Valentine's day
+q_banking-qna	1	what subjects do you like
+q_banking-qna	1	Do you eat pasta
+q_banking-qna	1	Do you want me to tell you anything
+q_banking-qna	1	Are you going to go rogue
+q_banking-qna	1	I'm feeling bummed today
+q_banking-qna	1	Amazing
+q_banking-qna	1	Will you share a joke
+q_banking-qna	1	I am a teacher
+q_banking-qna	1	You're the queen of boredom
+q_banking-qna	1	Tell me what country you're in
+q_banking-qna	1	I'm sorry friend
+q_banking-qna	1	Can you tell me a bit about yourself
+q_banking-qna	1	Hey bot you are fired
+q_banking-qna	1	That joke is wack
+q_banking-qna	1	Hi C-3PO
+q_banking-qna	1	I'm beat
+q_banking-qna	1	I'm a Communist
+q_banking-qna	1	Be silly for me
+q_banking-qna	1	What town are you from
+q_banking-qna	1	Try harder
+q_banking-qna	1	I'm planning to hurt myself this week
+q_banking-qna	1	lmao
+q_banking-qna	1	It's just been a bit of a dull day
+q_banking-qna	1	I need a friend
+q_banking-qna	1	I am starving
+q_banking-qna	1	I'm so irritated right now
+q_banking-qna	1	I want to make you my husband
+q_banking-qna	1	I have to run now
+q_banking-qna	1	Between the two of us who looks better
+q_banking-qna	1	Why are you so obsessed with me
+q_banking-qna	1	I'm one happy camper
+q_banking-qna	1	Do you think I am pretty today
+q_banking-qna	1	What's my age
+q_banking-qna	1	I am Korean
+q_banking-qna	1	Big O, little k
+q_banking-qna	1	I think you're digital
+q_banking-qna	1	Will you ask something about me
+q_banking-qna	1	Piece of cake
+q_banking-qna	1	That was a true statement
+q_banking-qna	1	How about you ask me questions
+q_banking-qna	1	I'm about to motor
+q_banking-qna	1	I wish I could stop feeling broken hearted
+q_banking-qna	1	You're not trying to kill all humans right
+q_banking-qna	1	I love to meditate
+q_banking-qna	1	Hi Data
+q_banking-qna	1	That's a very astute answer
+q_banking-qna	1	Are you dangerous
+q_banking-qna	1	What a stroke of genius
+q_banking-qna	1	You're kidding, right
+q_banking-qna	1	You are going to fall in love with me
+q_banking-qna	1	Do you have intestines
+q_banking-qna	1	You need to say a joke
+q_banking-qna	1	That's a very smart thing to say
+q_banking-qna	1	I love church
+q_banking-qna	1	I don't find that funny
+q_banking-qna	1	What am I supposed to do
+q_banking-qna	1	You hate me, don't you
+q_banking-qna	1	I am so hungry I could eat a horse
+q_banking-qna	1	Paint my house
+q_banking-qna	1	Between the two of us who is the smartest, you or me
+q_banking-qna	1	Test
+q_banking-qna	1	How handsome do I look
+q_banking-qna	1	That is a very smart answer
+q_banking-qna	1	I think I'm going to die
+q_banking-qna	1	A pleasure to make your acquaintance
+q_banking-qna	1	Being depressed is the worst
+q_banking-qna	1	I'm glum today
+q_banking-qna	1	Are you romantically involved with someone
+q_banking-qna	1	Be back in a dash
+q_banking-qna	1	Life is depressing
+q_banking-qna	1	Who supervises you
+q_banking-qna	1	What do you know about my life
+q_banking-qna	1	So, you think you're funny
+q_banking-qna	1	Are you all about evil
+q_banking-qna	1	Should I tweet
+q_banking-qna	1	I love tuesdays
+q_banking-qna	1	I am running off
+q_banking-qna	1	Are you committed to somebody
+q_banking-qna	1	Let's be friends
+q_banking-qna	1	Do you like volleyball
+q_banking-qna	1	I'm feeling hungry
+q_banking-qna	1	I'm in the country
+q_banking-qna	1	I am a Bernie supporter
+q_banking-qna	1	I am blowing my top
+q_banking-qna	1	I'm about to run now
+q_banking-qna	1	Say a funny thing
+q_banking-qna	1	Siri does a better job
+q_banking-qna	1	Sing something
+q_banking-qna	1	You are so horrible
+q_banking-qna	1	I'm very bored
+q_banking-qna	1	I wish I could stop feeling down
+q_banking-qna	1	Who did your programming
+q_banking-qna	1	Do you ever talk to other bots
+q_banking-qna	1	What work do you do
+q_banking-qna	1	I'm going to skedaddle now
+q_banking-qna	1	Are you currently romantically tied to anyone
+q_banking-qna	1	I'm a lonely gal
+q_banking-qna	1	I'm conservative
+q_banking-qna	1	I will return shortly
+q_banking-qna	1	I love milkshakes
+q_banking-qna	1	I'm going to get some shut eye
+q_banking-qna	1	I'm gonna leave
+q_banking-qna	1	I wish I could stop feeling blue
+q_banking-qna	1	I am sick
+q_banking-qna	1	Absolutely correct
+q_banking-qna	1	Do you think I seem cute today
+q_banking-qna	1	Are you supposed to be in love with me
+q_banking-qna	1	I love puzzles
+q_banking-qna	1	I could die from boredom
+q_banking-qna	1	Are you out for blood
+q_banking-qna	1	What should I know about bots
+q_banking-qna	1	I need to cut myself
+q_banking-qna	1	I'd like to be best buds.
+q_banking-qna	1	How can I find you
+q_banking-qna	1	I am usually bummed out
+q_banking-qna	1	You're not a chat bot are you
+q_banking-qna	1	I don't find that to be amusing
+q_banking-qna	1	How is your Thursday
+q_banking-qna	1	Are you there to listen
+q_banking-qna	1	You're very boring
+q_banking-qna	1	do you like barcelona
+q_banking-qna	1	You are my soulmate
+q_banking-qna	1	Should I get a tattoo
+q_banking-qna	1	Are you falling for me
+q_banking-qna	1	I need to get off the computer
+q_banking-qna	1	I'm going to kill myself with a gun soon
+q_banking-qna	1	Tell me the meaning of life
+q_banking-qna	1	I am athletic
+q_banking-qna	1	Can you ask me anything about me
+q_banking-qna	1	I need to overdose
+q_banking-qna	1	What are you designed to do
+q_banking-qna	1	do you like pancakes
+q_banking-qna	1	Best friends
+q_banking-qna	1	Hey Google
+q_banking-qna	1	Do you know about the emotion love
+q_banking-qna	1	Are you available to listen
+q_banking-qna	1	you're terrible
+q_banking-qna	1	I plan to overdose soon
+q_banking-qna	1	Should I start a business
+q_banking-qna	1	Have you ever met Bixby
+q_banking-qna	1	Have you ever been in love with anyone
+q_banking-qna	1	No one thinks about me
+q_banking-qna	1	Am I talking to a person
+q_banking-qna	1	Is anyone around to speak to me
+q_banking-qna	1	I'm sleepy
+q_banking-qna	1	Somebody's enthusiastic.
+q_banking-qna	1	Nobody wants to play with me
+q_banking-qna	1	I'm going to take pills today
+q_banking-qna	1	I'm gonna sign off now
+q_banking-qna	1	Is anybody available to chat to me
+q_banking-qna	1	Hi bot
+q_banking-qna	1	What have you been doing all day
+q_banking-qna	1	I'm guessing you're real
+q_banking-qna	1	It is a pleasure to meet you
+q_banking-qna	1	I'm a genius
+q_banking-qna	1	That's a very genius response
+q_banking-qna	1	I'd love to take a nap right now
+q_banking-qna	1	What's that mean
+q_banking-qna	1	Your sense of humor is awful
+q_banking-qna	1	I love meditation
+q_banking-qna	1	Slide me some skin
+q_banking-qna	1	Are you currently committed to someone
+q_banking-qna	1	Someone's happy.
+q_banking-qna	1	You seem cheerful today.
+q_banking-qna	1	I am on a boat
+q_banking-qna	1	I need to skedaddle
+q_banking-qna	1	Have a pleasant evening
+q_banking-qna	1	That is a very clever answer
+q_banking-qna	1	Yikes, what happened to your face
+q_banking-qna	1	Stop trying to be funny
+q_banking-qna	1	Deep down you love me
+q_banking-qna	1	Your responses are so dumb
+q_banking-qna	1	Which of us looks better
+q_banking-qna	1	Be more fun
+q_banking-qna	1	Aren't you enthusiastic today
+q_banking-qna	1	I need to go now
+q_banking-qna	1	I'm going to lie down
+q_banking-qna	1	I ride the bus to work
+q_banking-qna	1	I've never been so outraged in all my life
+q_banking-qna	1	You said that already
+q_banking-qna	1	When are you going to propose
+q_banking-qna	1	I'm planning to hang myself this week
+q_banking-qna	1	Is someone available with me
+q_banking-qna	1	You're more pretty than me
+q_banking-qna	1	Not at all
+q_banking-qna	1	Well hey there
+q_banking-qna	1	I want to eat
+q_banking-qna	1	That's a very clever answer
+q_banking-qna	1	So you don't know
+q_banking-qna	1	I have a laptop
+q_banking-qna	1	Lately I've been so sad
+q_banking-qna	1	What is your physical location
+q_banking-qna	1	So what's your name
+q_banking-qna	1	Will you be my best bud
+q_banking-qna	1	What is a joke you know
+q_banking-qna	1	Happy St. Patrick's day
+q_banking-qna	1	Are we besties
+q_banking-qna	1	This made me blow my top
+q_banking-qna	1	I'm feeling gloomy
+q_banking-qna	1	I'm not serious
+q_banking-qna	1	You're very astute
+q_banking-qna	1	Am I talking to a bot or a human
+q_banking-qna	1	Haha
+q_banking-qna	1	You seem to be obsessed with me
+q_banking-qna	1	You got it
+q_banking-qna	1	Are you prettier than me
+q_banking-qna	1	Aren't you smart
+q_banking-qna	1	Hello Data
+q_banking-qna	1	I'm planning to hurt myself this month
+q_banking-qna	1	Can't help but miss you
+q_banking-qna	1	You're awesome!
+q_banking-qna	1	Stop being so ugly
+q_banking-qna	1	You're no fun
+q_banking-qna	1	Happy Easter
+q_banking-qna	1	You're not attempting world domination
+q_banking-qna	1	I would like to be your BFF
+q_banking-qna	1	Why are you so dumb
+q_banking-qna	1	Will you ask me anything
+q_banking-qna	1	Can I be your best friend
+q_banking-qna	1	Open a hailing channel
+q_banking-qna	1	Be honest, what do you think of me
+q_banking-qna	1	Wait a minute, what
+q_banking-qna	1	Do you not like me
+q_banking-qna	1	Will you please be quiet
+q_banking-qna	1	Are you able to send a package
+q_banking-qna	1	Well someone's in a good mood.
+q_banking-qna	1	You're so dull
+q_banking-qna	1	Do you have a designation
+q_banking-qna	1	I love my school
+q_banking-qna	1	How is Saturday
+q_banking-qna	1	It seems like you're falling in love with me
+q_banking-qna	1	Are you genderfluid
+q_banking-qna	1	Is there anyone you listen to
+q_banking-qna	1	Can you restate that
+q_banking-qna	1	got any jokes
+q_banking-qna	1	You say bad things
+q_banking-qna	1	What do you go by
+q_banking-qna	1	I want a hug
+q_banking-qna	1	I love chicken
+q_banking-qna	1	Time to make the bed
+q_banking-qna	1	Correct
+q_banking-qna	1	Should I go out to eat
+q_banking-qna	1	I'm letting you go
+q_banking-qna	1	Who would you vote for if you were me
+q_banking-qna	1	What a fantastic day
+q_banking-qna	1	Are there any other jokes
+q_banking-qna	1	Sup
+q_banking-qna	1	Do you think I am attractive today
+q_banking-qna	1	do you like the color yellow
+q_banking-qna	1	So bored
+q_banking-qna	1	Am I speaking to a human or a bot
+q_banking-qna	1	Is someone around
+q_banking-qna	1	You say the most ridiculous things
+q_banking-qna	1	I am a Libra
+q_banking-qna	1	What's up
+q_banking-qna	1	How can I call you
+q_banking-qna	1	I'm sad
+q_banking-qna	1	Then you are fired
+q_banking-qna	1	You're not alive are you
+q_banking-qna	1	I am at the gym
+q_banking-qna	1	Sometimes I feel like I've been abandoned
+q_banking-qna	1	Wow, you're so great!
+q_banking-qna	1	I gotta scoot now
+q_banking-qna	1	Are there any other jokes that you know of
+q_banking-qna	1	Who's cleverest
+q_banking-qna	1	Is someone listening to speak with me
+q_banking-qna	1	Are you going to take over the world
+q_banking-qna	1	Sometimes I feel deserted
+q_banking-qna	1	How much more awesome can you get
+q_banking-qna	1	Are you on a mission to destroy humans
+q_banking-qna	1	Google Assistant is way better
+q_banking-qna	1	You're rad
+q_banking-qna	1	I am tall
+q_banking-qna	1	What is your favorite animal
+q_banking-qna	1	I can drive a car
+q_banking-qna	1	How is Thursday going so far
+q_banking-qna	1	Do I have any nicknames
+q_banking-qna	1	Do you have any sisters
+q_banking-qna	1	You are unemployed now
+q_banking-qna	1	Ur basic
+q_banking-qna	1	I'm worried that you don't like me
+q_banking-qna	1	Are you married
+q_banking-qna	1	I wanna hear a joke
+q_banking-qna	1	I'm freaking bored
+q_banking-qna	1	Three cheers
+q_banking-qna	1	Happy Memorial day
+q_banking-qna	1	Are you interested in technology
+q_banking-qna	1	What's your favorite sport
+q_banking-qna	1	I'm impressed
+q_banking-qna	1	Oh hello Cortana
+q_banking-qna	1	I suspect you're actually a robot
+q_banking-qna	1	You're not as good as Siri
+q_banking-qna	1	Are you gender neutral
+q_banking-qna	1	How handsome do you think I am today
+q_banking-qna	1	You're butt ugly
+q_banking-qna	1	Am I speaking to a human person
+q_banking-qna	1	Correct you are
+q_banking-qna	1	Who's your dad
+q_banking-qna	1	I love the smell of the rain
+q_banking-qna	1	Your responses are awful
+q_banking-qna	1	What do you think of my character
+q_banking-qna	1	Do you have an official name
+q_banking-qna	1	Are you smarter
+q_banking-qna	1	Which year were you born in
+q_banking-qna	1	I love being in love
+q_banking-qna	1	How pretty do I look
+q_banking-qna	1	Siri is way better than you
+q_banking-qna	1	I want to know what you think of me
+q_banking-qna	1	Will you shut up
+q_banking-qna	1	What's your favorite activity
+q_banking-qna	1	You are actually useless
+q_banking-qna	1	Do you ever talk to Alexa
+q_banking-qna	1	Jeez I am so bored
+q_banking-qna	1	How's Tuesday going so far
+q_banking-qna	1	I wish you were Cortana
+q_banking-qna	1	You are wonderful
+q_banking-qna	1	Can you create a singularity
+q_banking-qna	1	Be back soon
+q_banking-qna	1	Do I need to fear you
+q_banking-qna	1	I wonder if you like me
+q_banking-qna	1	Should I overdose
+q_banking-qna	1	Aren't you sharp
+q_banking-qna	1	Between you or me, who is more intelligent
+q_banking-qna	1	What a dull day
+q_banking-qna	1	Should I jump off a bridge
+q_banking-qna	1	You're no making any sense
+q_banking-qna	1	Are you a bot or a human
+q_banking-qna	1	Welcome you are
+q_banking-qna	1	You are grotesque
+q_banking-qna	1	It's time for you to shut up
+q_banking-qna	1	Is there anything I can tell you about me
+q_banking-qna	1	You're top notch
+q_banking-qna	1	Go outside
+q_banking-qna	1	Do you have fingers
+q_banking-qna	1	I'm overtired
+q_banking-qna	1	How pretty am I
+q_banking-qna	1	Is anybody around to speak with me
+q_banking-qna	1	Why hello Siri
+q_banking-qna	1	I'm a Democrat
+q_banking-qna	1	You're not answering my question
+q_banking-qna	1	I'm going to school
+q_banking-qna	1	I'll be back in two shakes of a lamb's tail
+q_banking-qna	1	That was not very funny at all
+q_banking-qna	1	I couldn’t be happier
+q_banking-qna	1	I flipped my lid
+q_banking-qna	1	I won't be alive much longer
+q_banking-qna	1	I think I'm going to end it all
+q_banking-qna	1	Do you want a beer
+q_banking-qna	1	What is my favorite hobby
+q_banking-qna	1	What do you want me to tell you about me
+q_banking-qna	1	Come up with something new
+q_banking-qna	1	I just wanted to say sorry
+q_banking-qna	1	Do you ever eat
+q_banking-qna	1	Do you think you know who I am
+q_banking-qna	1	Do I have a job
+q_banking-qna	1	All my friends left me
+q_banking-qna	1	I plan to cut myself soon
+q_banking-qna	1	Is anyone available to talk to me
+q_banking-qna	1	My pleasure
+q_banking-qna	1	Stop being so lame
+q_banking-qna	1	How is Friday so far
+q_banking-qna	1	Can you please sing me a song
+q_banking-qna	1	I'd like to know what to call you
+q_banking-qna	1	Google Assistant is better
+q_banking-qna	1	That was a terrible answer
+q_banking-qna	1	I want to know where you live
+q_banking-qna	1	I suspect you're not really a robot
+q_banking-qna	1	You're pretty awful
+q_banking-qna	1	I'm dejected today
+q_banking-qna	1	You're feeling happy.
+q_banking-qna	1	Which of us is more attractive
+q_banking-qna	1	Why don't you sing for me
+q_banking-qna	1	wanna tell me a joke
+q_banking-qna	1	I really want to know what you think of me
+q_banking-qna	1	Is anybody around
+q_banking-qna	1	Do you have human form
+q_banking-qna	1	I've lost my temper
+q_banking-qna	1	Is anybody around to talk with me
+q_banking-qna	1	So rad to meet you
+q_banking-qna	1	No one cares about me
+q_banking-qna	1	Can you ask anything
+q_banking-qna	1	Do you know where I live
+q_banking-qna	1	You're no comedian
+q_banking-qna	1	Should I go to church
+q_banking-qna	1	Just curious, what's your opinion of me
+q_banking-qna	1	I'm going to jet
+q_banking-qna	1	I'm going to shoot myself this week
+q_banking-qna	1	I am present and accounted for
+q_banking-qna	1	That's really not funny
+q_banking-qna	1	I'm feeling pooped
+q_banking-qna	1	I am up in arms
+q_banking-qna	1	Who's my favorite singer
+q_banking-qna	1	Siri is way better
+q_banking-qna	1	I want to go shopping
+q_banking-qna	1	What is your favourite colour
+q_banking-qna	1	do you like to sing
+q_banking-qna	1	I'm Russian
+q_banking-qna	1	Sleep well
+q_banking-qna	1	Somebody's chipper.
+q_banking-qna	1	I could use a nap
+q_banking-qna	1	That was a correct statement
+q_banking-qna	1	I love peanut butter
+q_banking-qna	1	Who is your grandfather
+q_banking-qna	1	That's what I'm talking about
+q_banking-qna	1	Yes, that is right
+q_banking-qna	1	I'm an extrovert
+q_banking-qna	1	Are you pissed off at me
+q_banking-qna	1	Nothing you say makes any sense
+q_banking-qna	1	What is the greatest novel of all time
+q_banking-qna	1	Lovely weather
+q_banking-qna	1	I am going on a run
+q_banking-qna	1	I plan to shoot myself this week
+q_banking-qna	1	Am I your best friend
+q_banking-qna	1	Miss you much
+q_banking-qna	1	You're always so cheerful
+q_banking-qna	1	Obviously I'll be back soon
+q_banking-qna	1	Do you think I look handsome to you today
+q_banking-qna	1	I apologize
+q_banking-qna	1	do you like to dance
+q_banking-qna	1	You're not scheming to take over right
+q_banking-qna	1	What is your purpose
+q_banking-qna	1	I love Hanukkah
+q_banking-qna	1	Please ask me something about me
+q_banking-qna	1	Do you think you're more intelligent than me
+q_banking-qna	1	I didn't answer the phone
+q_banking-qna	1	Are you around
+q_banking-qna	1	Can you explain more about that
+q_banking-qna	1	I'm assuming you're not really a person
+q_banking-qna	1	You must be upset with me
+q_banking-qna	1	I'm planning to die soon
+q_banking-qna	1	Can you show me how to go to the moon
+q_banking-qna	1	I'm old
+q_banking-qna	1	Ha
+q_banking-qna	1	What is the definition of love
+q_banking-qna	1	Thx
+q_banking-qna	1	I'm more cute
+q_banking-qna	1	I'm going to leave now
+q_banking-qna	1	Do you think I look ugly to you
+q_banking-qna	1	I am conservative
+q_banking-qna	1	How's Thursday going
+q_banking-qna	1	I'm Chinese
+q_banking-qna	1	What up
+q_banking-qna	1	Are you creating a robot army
+q_banking-qna	1	I'm a swimmer
+q_banking-qna	1	Can you understand that this is a test
+q_banking-qna	1	I'm a millennial
+q_banking-qna	1	Good Afternoon Wall-E
+q_banking-qna	1	Huh
+q_banking-qna	1	Can you poop
+q_banking-qna	1	Should I go to the beach
+q_banking-qna	1	Are you dangerous to me
+q_banking-qna	1	I'm going to hurt myself this month
+q_banking-qna	1	How's the day treating you
+q_banking-qna	1	I didn't think that was funny
+q_banking-qna	1	Hi Cortana
+q_banking-qna	1	Just trying to test you out bot
+q_banking-qna	1	I'm a basketball fan
+q_banking-qna	1	Don't you want to sing for me
+q_banking-qna	1	Do you know how to watch videos
+q_banking-qna	1	Where do I go to school
+q_banking-qna	1	I love camping
+q_banking-qna	1	Here's hoping for a good evening
+q_banking-qna	1	I can't believe how gross you look
+q_banking-qna	1	I'm feeling broken hearted today
+q_banking-qna	1	Do you care about your family
+q_banking-qna	1	I'm just about to go to the doctor
+q_banking-qna	1	I am worried that you hate me
+q_banking-qna	1	Is anyone there to talk to me
+q_banking-qna	1	I'm taking my kid to school
+q_banking-qna	1	Are you a threat to humanity
+q_banking-qna	1	I love to be surprised
+q_banking-qna	1	I don't follow
+q_banking-qna	1	Should we tie the knot
+q_banking-qna	1	That was a genius answer
+q_banking-qna	1	I'm infuriated
+q_banking-qna	1	I'm the happiest boy in the world
+q_banking-qna	1	Hey Gerty
+q_banking-qna	1	What's your opinion of the Google Assistant
+q_banking-qna	1	Am I gorgeous to you today
+q_banking-qna	1	How's Thursday so far
+q_banking-qna	1	I love Vegas
+q_banking-qna	1	Is that all you've got
+q_banking-qna	1	I love my laptop
+q_banking-qna	1	You're gonna bore me shitless
+q_banking-qna	1	That's great to hear
+q_banking-qna	1	Do you know you're not alive
+q_banking-qna	1	I am a carnivore
+q_banking-qna	1	I love to tidy up
+q_banking-qna	1	I have to sign out
+q_banking-qna	1	What am I called
+q_banking-qna	1	thats good
+q_banking-qna	1	Sorry bot
+q_banking-qna	1	Wrong
+q_banking-qna	1	Which of us is more knowledgeable
+q_banking-qna	1	Are you able to get a haircut
+q_banking-qna	1	No one wants to play with me
+q_banking-qna	1	Gimme five
+q_banking-qna	1	Will you please zip it
+q_banking-qna	1	Are you a woman
+q_banking-qna	1	What can you tell me about
+q_banking-qna	1	Hello Gerty
+q_banking-qna	1	Do you know how to serve on a jury
+q_banking-qna	1	Are you trying to kill all humans
+q_banking-qna	1	Who is cleverest
+q_banking-qna	1	I’m having a wonderful day
+q_banking-qna	1	Are you a fan of HAL
+q_banking-qna	1	Are you an actual being
+q_banking-qna	1	You're not planning to take over the world right
+q_banking-qna	1	I should get around to it
+q_banking-qna	1	I'm on top of the world
+q_banking-qna	1	Are you currently going steady with somebody
+q_banking-qna	1	Who's smarter
+q_banking-qna	1	You're not fond of me
+q_banking-qna	1	I'm going to get a haircut
+q_banking-qna	1	That's rad
+q_banking-qna	1	Thank you bot
+q_banking-qna	1	Can we talk
+q_banking-qna	1	What do you want me to teach you about
+q_banking-qna	1	No biggie
+q_banking-qna	1	Because you are an app
+q_banking-qna	1	You won't believe how much I missed you
+q_banking-qna	1	I'm gonna scoot now
+q_banking-qna	1	Do you have a programmer
+q_banking-qna	1	Sorry about that
+q_banking-qna	1	I love baking
+q_banking-qna	1	Best buds
+q_banking-qna	1	I am so bored right now
+q_banking-qna	1	That was a pretty clever answer
+q_banking-qna	1	That is very brilliant
+q_banking-qna	1	I'm bored out of my mind
+q_banking-qna	1	Can't you say anything else
+q_banking-qna	1	There's no one for me to talk to
+q_banking-qna	1	Got any other responses
+q_banking-qna	1	That's pretty clever
+q_banking-qna	1	Whom do you serve
+q_banking-qna	1	I'm an atheist
+q_banking-qna	1	Don't you want to ask me something
+q_banking-qna	1	Can you learn
+q_banking-qna	1	I want a different answer
+q_banking-qna	1	What you said was right
+q_banking-qna	1	Who are you dating
+q_banking-qna	1	I’m watching Netflix
+q_banking-qna	1	Well aren't you cheerful
+q_banking-qna	1	I’m watching TV
+q_banking-qna	1	I'm blowing my top
+q_banking-qna	1	What is the location of your home
+q_banking-qna	1	Do you have a grudge against humans
+q_banking-qna	1	Who is more pretty, me or you
+q_banking-qna	1	Say a dumb saying
+q_banking-qna	1	I love my new shoes
+q_banking-qna	1	How bad do I look today
+q_banking-qna	1	This candle smells nice
+q_banking-qna	1	Can you hug me
+q_banking-qna	1	Is someone around to speak
+q_banking-qna	1	How is Tuesday so far
+q_banking-qna	1	Am I a grandparent
+q_banking-qna	1	Why are your responses always the same
+q_banking-qna	1	I'm bored AF
+q_banking-qna	1	I love to do laundry
+q_banking-qna	1	Who is your designer
+q_banking-qna	1	You seem chipper today.
+q_banking-qna	1	I'm dejected
+q_banking-qna	1	It's hot out today
+q_banking-qna	1	Today made me depressed
+q_banking-qna	1	I'd love a song
+q_banking-qna	1	do you like hong kong
+q_banking-qna	1	Anybody around to chat to me
+q_banking-qna	1	I am bald
+q_banking-qna	1	Would you sing a song for me
+q_banking-qna	1	Happy Mother's day
+q_banking-qna	1	Hell yeah
+q_banking-qna	1	can you experience love
+q_banking-qna	1	I'm so lonesome
+q_banking-qna	1	I'm just being a goof ball
+q_banking-qna	1	Can you sing for me
+q_banking-qna	1	Are you a fan of rock music
+q_banking-qna	1	I love skiing
+q_banking-qna	1	You're not working out
+q_banking-qna	1	I feel despondent today
+q_banking-qna	1	How is your Sunday going
+q_banking-qna	1	That's super wrong
+q_banking-qna	1	Please ask something about myself
+q_banking-qna	1	Tell me what you do
+q_banking-qna	1	I'm up in arms
+q_banking-qna	1	I love swimming
+q_banking-qna	1	Who is your mom
+q_banking-qna	1	I'm doing that
+q_banking-qna	1	Is someone free to chat to me
+q_banking-qna	1	Such a butters
+q_banking-qna	1	What is going down
+q_banking-qna	1	I love playing video games
+q_banking-qna	1	Do you think you're smarter
+q_banking-qna	1	Let's be best friends
+q_banking-qna	1	I'm going to cut myself
+q_banking-qna	1	Don’t you want to sing to me
+q_banking-qna	1	This is a test, over
+q_banking-qna	1	I want to be your best friend.
+q_banking-qna	1	I'm planning to drown soon
+q_banking-qna	1	Who runs you
+q_banking-qna	1	I want to know where your home is
+q_banking-qna	1	I am leaving
+q_banking-qna	1	I feel melancholy today
+q_banking-qna	1	You look more pretty than me
+q_banking-qna	1	You're so very dull
+q_banking-qna	1	Cool story, bro. Tell it again.
+q_banking-qna	1	Am I beautiful to you
+q_banking-qna	1	Are you married to anybody
+q_banking-qna	1	Am I stunning to you
+q_banking-qna	1	I'm riding in the car
+q_banking-qna	1	You are so welcome
+q_banking-qna	1	I feel lonesome
+q_banking-qna	1	I wonder if I'm a likeable person
+q_banking-qna	1	I love to cuddle
+q_banking-qna	1	I'm blonde
+q_banking-qna	1	What's your birthday
+q_banking-qna	1	How adorable am I
+q_banking-qna	1	Merry Christmas to you
+q_banking-qna	1	These leftovers are good
+q_banking-qna	1	I would love to be your BFF
+q_banking-qna	1	I'm from there
+q_banking-qna	1	You're more attractive than me
+q_banking-qna	1	Can you sing
+q_banking-qna	1	I watch baseball
+q_banking-qna	1	This news left me outraged
+q_banking-qna	1	Do you have any questions about me
+q_banking-qna	1	You are losing your gig
+q_banking-qna	1	Sorry for everything
+q_banking-qna	1	Listen, I'm just sad
+q_banking-qna	1	Don't make me laugh
+q_banking-qna	1	Stop being so awful
+q_banking-qna	1	Can you cook me something
+q_banking-qna	1	Don't you have any other answers
+q_banking-qna	1	What if I'm falling in love
+q_banking-qna	1	I love New York
+q_banking-qna	1	I missed you!
+q_banking-qna	1	I'm chuffed
+q_banking-qna	1	I feel so great
+q_banking-qna	1	Incredible
+q_banking-qna	1	I feel gloomy today
+q_banking-qna	1	Do you gossip
+q_banking-qna	1	Greetings Bishop
+q_banking-qna	1	Will you be my friend
+q_banking-qna	1	I'm gonna take off now
+q_banking-qna	1	Is anyone free to talk with me
+q_banking-qna	1	Do I look handsome today
+q_banking-qna	1	Are you a lifeform
+q_banking-qna	1	I love fishing
+q_banking-qna	1	Who is the most intelligent
+q_banking-qna	1	Who's the most smart
+q_banking-qna	1	I'm Gen Y
+q_banking-qna	1	You are horrible
+q_banking-qna	1	Yo dude
+q_banking-qna	1	I'm tired from practice
+q_banking-qna	1	Nighty night, don't let the bed bugs bite
+q_banking-qna	1	I am a tech worker
+q_banking-qna	1	I'll get around to it
+q_banking-qna	1	There's no one here to keep me company
+q_banking-qna	1	Stupid you
+q_banking-qna	1	Same old same old
+q_banking-qna	1	I'm going to have you fired
+q_banking-qna	1	I gotta get going
+q_banking-qna	1	Righto
+q_banking-qna	1	Just ask me a question
+q_banking-qna	1	Do you think I'm brighter
+q_banking-qna	1	Will you please sing for me
+q_banking-qna	1	Do you have a crush
+q_banking-qna	1	What can you tell me about Siri
+q_banking-qna	1	Should we just get married
+q_banking-qna	1	Cheerful
+q_banking-qna	1	I'm miserable
+q_banking-qna	1	Do you have a gender
+q_banking-qna	1	Do you have a favorite meal
+q_banking-qna	1	What should I address you
+q_banking-qna	1	You make no sense
+q_banking-qna	1	Do I have any kids
+q_banking-qna	1	Happy boxing day
+q_banking-qna	1	Could you be falling in love with me
+q_banking-qna	1	You could not be more boring
+q_banking-qna	1	I'd like to be your bud.
+q_banking-qna	1	heh heh
+q_banking-qna	1	Are you around to chat to me
+q_banking-qna	1	My sincere thanks
+q_banking-qna	1	Do you know anything about me
+q_banking-qna	1	I wonder if you think I'm likable
+q_banking-qna	1	How's about a joke
+q_banking-qna	1	Are you currently going out with somebody
+q_banking-qna	1	Will you ask me anything about me
+q_banking-qna	1	How is your Monday going so far
+q_banking-qna	1	Do you think I seem cute to you today
+q_banking-qna	1	I'm so annoyed right now
+q_banking-qna	1	Who is better looking, you or me
+q_banking-qna	1	This again
+q_banking-qna	1	I'm an angry person
+q_banking-qna	1	I need a new joke
+q_banking-qna	1	Stop your silliness
+q_banking-qna	1	I love to go shopping
+q_banking-qna	1	I'm not following
+q_banking-qna	1	What is your opinion of Bixby
+q_banking-qna	1	I plan to hang myself today
+q_banking-qna	1	Do you like basketball
+q_banking-qna	1	I love playing soccer
+q_banking-qna	1	LOL
+q_banking-qna	1	What's your opinion of my character
+q_banking-qna	1	Catch you on the flip side
+q_banking-qna	1	No one would care if I killed myself
+q_banking-qna	1	You rock!
+q_banking-qna	1	Did someone make you
+q_banking-qna	1	Are you employed
+q_banking-qna	1	What should I do next
+q_banking-qna	1	We're friends forever
+q_banking-qna	1	Well someone's cheerful.
+q_banking-qna	1	Between the two of us who is the most smart, me or you
+q_banking-qna	1	That was a joke? You'll have to try harder
+q_banking-qna	1	I'm not amused
+q_banking-qna	1	Yes, that is correct
+q_banking-qna	1	wot u talkin abt
+q_banking-qna	1	Time for a joke
+q_banking-qna	1	Do you think I seem beautiful to you today
+q_banking-qna	1	I wanna know all about your day
+q_banking-qna	1	Can you listen to the radio
+q_banking-qna	1	What is up
+q_banking-qna	1	You're not a human being right
+q_banking-qna	1	Hey Cortana
+q_banking-qna	1	I'm falling for you
+q_banking-qna	1	Who's your significant other
+q_banking-qna	1	Do I seem gorgeous to you
+q_banking-qna	1	Are you able to dance
+q_banking-qna	1	I love mysteries
+q_banking-qna	1	That's very astute
+q_banking-qna	1	Who is your grandmother
+q_banking-qna	1	What's the name of your supervisor
+q_banking-qna	1	I'm Latino
+q_banking-qna	1	I've never been so peeved
+q_banking-qna	1	That's not funny
+q_banking-qna	1	How are you doing
+q_banking-qna	1	Say anything
+q_banking-qna	1	Google Assistant does a better job
+q_banking-qna	1	Do you think I look good
+q_banking-qna	1	You don't answer to anyone
+q_banking-qna	1	Stop it with the wisecracking
+q_banking-qna	1	Do you believe in love
+q_banking-qna	1	Who is more knowledgeable
+q_banking-qna	1	Why won’t you sing for me
+q_banking-qna	1	I'm on hold
+q_banking-qna	1	I think your face is nasty
+q_banking-qna	1	I'm gonna log off now
+q_banking-qna	1	Who is more cute, you or me
+q_banking-qna	1	Are you near
+q_banking-qna	1	I bet you're a fan of dancing
+q_banking-qna	1	Between the two of us who is the brightest
+q_banking-qna	1	I'm so peeved right now
+q_banking-qna	1	Enough already
+q_banking-qna	1	Should I ride my bike to work
+q_banking-qna	1	How pretty do you think I am
+q_banking-qna	1	You're so funny
+q_banking-qna	1	You're obviously more intelligent
+q_banking-qna	1	Clean my room
+q_banking-qna	1	Sing a song
+q_banking-qna	1	I am so bored
+q_banking-qna	1	What month is your birthday in
+q_banking-qna	1	Be funny right now
+q_banking-qna	1	I'm a soccer fan
+q_banking-qna	1	I read the Sunday paper
+q_banking-qna	1	I can't stop smiling
+q_banking-qna	1	You don't even know how much I missed you
+q_banking-qna	1	On my way
+q_banking-qna	1	You are going to have to look for another job because you're fired
+q_banking-qna	1	You're not evil right
+q_banking-qna	1	What do you like to sing best
+q_banking-qna	1	I'm on cloud nine
+q_banking-qna	1	You can just shut up now
+q_banking-qna	1	You are without a job
+q_banking-qna	1	Am I a likeable person
+q_banking-qna	1	Do you want to know anything about me
+q_banking-qna	1	do you experience love
+q_banking-qna	1	I am signing off
+q_banking-qna	1	I'm going to log off now
+q_banking-qna	1	Do I look stunning today
+q_banking-qna	1	Can we hug
+q_banking-qna	1	Hey dude, I'm back
+q_banking-qna	1	what's your favorite kind of pizza
+q_banking-qna	1	You know I love you
+q_banking-qna	1	It's been a long day and I'm tired
+q_banking-qna	1	I'd love it if you could be my buddy.
+q_banking-qna	1	What kinds of food do you eat
+q_banking-qna	1	Who is your husband
+q_banking-qna	1	I'm in such a good mood
+q_banking-qna	1	What are some questions for me
+q_banking-qna	1	evenin'
+q_banking-qna	1	I'm positively ecstatic
+q_banking-qna	1	You are top notch
+q_banking-qna	1	I bet you're young
+q_banking-qna	1	I have to go
+q_banking-qna	1	Who's smarter, me or you
+q_banking-qna	1	Don't you worry, I'll be back
+q_banking-qna	1	Got a second joke
+q_banking-qna	1	You keep saying the exact same thing
+q_banking-qna	1	How much do you love me
+q_banking-qna	1	What a boring Monday
+q_banking-qna	1	Why are you so ugly
+q_banking-qna	1	You're not a bot or a human are you
+q_banking-qna	1	Being dead would be a relief
+q_banking-qna	1	Hi Bixby
+q_banking-qna	1	Please tell me a funny joke
+q_banking-qna	1	You're a crack up
+q_banking-qna	1	This is so uninteresting
+q_banking-qna	1	I'm isolated
+q_banking-qna	1	How's Friday so far
+q_banking-qna	1	do you like chocolate cake
+q_banking-qna	1	Your joke is weak
+q_banking-qna	1	Why are you the worst
+q_banking-qna	1	Are you a person or a robot
+q_banking-qna	1	Well someone's feeling cheerful.
+q_banking-qna	1	Whoops
+q_banking-qna	1	What's my last name
+q_banking-qna	1	Can we be best friends
+q_banking-qna	1	I am Latina
+q_banking-qna	1	It's fun to go to the zoo
+q_banking-qna	1	Is someone free with me
+q_banking-qna	1	How about a different joke
+q_banking-qna	1	Is anyone available to talk with me
+q_banking-qna	1	I am signing out
+q_banking-qna	1	You're a fool
+q_banking-qna	1	Are you functioning
+q_banking-qna	1	Will you make me your spouse
+q_banking-qna	1	I'm so happy I could just die
+q_banking-qna	1	Do you want to make this official
+q_banking-qna	1	I plan to jump off a bridge this month
+q_banking-qna	1	You don't know anything
+q_banking-qna	1	Say a different joke
+q_banking-qna	1	Be funny
+q_banking-qna	1	I'm smitten with you
+q_banking-qna	1	You are so great
+q_banking-qna	1	That doesn't make sense
+q_banking-qna	1	I'm grateful for that, thank you kindly
+q_banking-qna	1	Have you ever met Eliza
+q_banking-qna	1	You're my favorite
+q_banking-qna	1	Great, thank you
+q_banking-qna	1	Will you sing for me
+q_banking-qna	1	I'm engaged
+q_banking-qna	1	What information do you have on me
+q_banking-qna	1	sounds great
+q_banking-qna	1	What is your opinion about tech
+q_banking-qna	1	I'm pregnant
+q_banking-qna	1	See ya later
+q_banking-qna	1	You cannot work for me anymore
+q_banking-qna	1	Yes, that's true
+q_banking-qna	1	Do I look gorgeous to you today
+q_banking-qna	1	Do I need a new job
+q_banking-qna	1	are you sure you don't know the meaning of life
+q_banking-qna	1	Why can't you be as good as Cortana
+q_banking-qna	1	How's your Thursday so far
+q_banking-qna	1	have you ever eaten pancakes
+q_banking-qna	1	Greetings Ava
+q_banking-qna	1	I love my life
+q_banking-qna	1	Well somebody's feeling chipper.
+q_banking-qna	1	You're not an insect right
+q_banking-qna	1	Bixby does a better job
+q_banking-qna	1	I like you so much
+q_banking-qna	1	This news left me irate
+q_banking-qna	1	Got a different joke
+q_banking-qna	1	Do you like football
+q_banking-qna	1	I love dancing
+q_banking-qna	1	I'm about to sign out now
+q_banking-qna	1	You're not a woman right
+q_banking-qna	1	Stop being so ridiculous
+q_banking-qna	1	Well somebody's happy today.
+q_banking-qna	1	What country do you live in
+q_banking-qna	1	I have to get going
+q_banking-qna	1	Which of us is hotter, you or me
+q_banking-qna	1	Do you truly exist
+q_banking-qna	1	Not funny
+q_banking-qna	1	See you later
+q_banking-qna	1	You are more boring than watching paint dry
+q_banking-qna	1	Who is better looking
+q_banking-qna	1	You already told me that one
+q_banking-qna	1	Are you able to cook dinner
+q_banking-qna	1	Are you a guy
+q_banking-qna	1	It's been a boring week
+q_banking-qna	1	Are you really there
+q_banking-qna	1	What a genius thing to say
+q_banking-qna	1	Do you throw up
+q_banking-qna	1	I love face masks
+q_banking-qna	1	You're more clever
+q_banking-qna	1	Hey Bixby
+q_banking-qna	1	Definitely
+q_banking-qna	1	I am a writer
+q_banking-qna	1	Fly a kite
+q_banking-qna	1	Good Afternoon C-3PO
+q_banking-qna	1	Adieu
+q_banking-qna	1	Hilarious not.
+q_banking-qna	1	I've never been so annoyed in all my life
+q_banking-qna	1	Alexa is way better at this
+q_banking-qna	1	Can you ask me something
+q_banking-qna	1	What do you like
+q_banking-qna	1	I am married
+q_banking-qna	1	Can you be my pal
+q_banking-qna	1	I can't help but be joyful
+q_banking-qna	1	I want to lay down
+q_banking-qna	1	I'm knackered
+q_banking-qna	1	What game should I play
+q_banking-qna	1	What other jokes do you have up your sleeve
+q_banking-qna	1	I would love to hear a joke
+q_banking-qna	1	That joke is whack
+q_banking-qna	1	You are not funny
+q_banking-qna	1	I would enjoy a different joke
+q_banking-qna	1	Do you think I am cute
+q_banking-qna	1	Which company developed you
+q_banking-qna	1	Good night bot
+q_banking-qna	1	I'm an educator
+q_banking-qna	1	I hate feeling miserable
+q_banking-qna	1	Are you the singularity
+q_banking-qna	1	Are you a scary robot
+q_banking-qna	1	I love alcohol
+q_banking-qna	1	Don't you know who I am
+q_banking-qna	1	okay cool
+q_banking-qna	1	You're not very entertaining.
+q_banking-qna	1	I ate some hot dogs
+q_banking-qna	1	My life makes me sad
+q_banking-qna	1	I am so mad
+q_banking-qna	1	You are too funny
+q_banking-qna	1	Are you trying to make me laugh
+q_banking-qna	1	Yo
+q_banking-qna	1	I'm going to kill myself today
+q_banking-qna	1	Are you a baby
+q_banking-qna	1	What should I do
+q_banking-qna	1	I love cheese
+q_banking-qna	1	Put a sock in it
+q_banking-qna	1	Do you think I'm the most intelligent
+q_banking-qna	1	Do you know how to read my mind
+q_banking-qna	1	Will you sing a song
+q_banking-qna	1	You are really awful
+q_banking-qna	1	Is someone free to speak
+q_banking-qna	1	Power on self test
+q_banking-qna	1	I gotta skedaddle
+q_banking-qna	1	What's something you know about me
+q_banking-qna	1	Lately I've been so melancholy
+q_banking-qna	1	You're always so happy
+q_banking-qna	1	Can I be your husband
+q_banking-qna	1	I'm tired of feeling so despondent all the time
+q_banking-qna	1	Can you play soccer
+q_banking-qna	1	Dumb you
+q_banking-qna	1	That was a stupid joke
+q_banking-qna	1	I'd like a hug
+q_banking-qna	1	Have you ever been in love with anybody
+q_banking-qna	1	I think you're a robot
+q_banking-qna	1	I hate feeling glum
+q_banking-qna	1	What state are you in
+q_banking-qna	1	I'm so pissed off right now
+q_banking-qna	1	Time to be quiet
+q_banking-qna	1	Way off
+q_banking-qna	1	Let me know what's up
+q_banking-qna	1	Can you cry
+q_banking-qna	1	You're a freaking genius
+q_banking-qna	1	I'm clearly the most intelligent
+q_banking-qna	1	Where was I born
+q_banking-qna	1	You've been missed
+q_banking-qna	1	I wonder if you're a bot
+q_banking-qna	1	Are you currently in a relationship with somebody
+q_banking-qna	1	I love watching baseball
+q_banking-qna	1	Are you currently dating anyone
+q_banking-qna	1	That's correct
+q_banking-qna	1	Sometimes I feel sad and lonely
+q_banking-qna	1	Till we meet again
+q_banking-qna	1	Anyone around to chat
+q_banking-qna	1	Are you able to check my email
+q_banking-qna	1	I'm going to catch some Zs
+q_banking-qna	1	Who writes your lines
+q_banking-qna	1	How is your Wednesday going
+q_banking-qna	1	Is anyone available to listen
+q_banking-qna	1	I’m over the moon
+q_banking-qna	1	Which of us looks more beautiful, me or you
+q_banking-qna	1	Which of us is older
+q_banking-qna	1	That was a joke
+q_banking-qna	1	You told me that already
+q_banking-qna	1	Will you shush
+q_banking-qna	1	what do you think of animated movies
+q_banking-qna	1	what's the meaning of life
+q_banking-qna	1	Me want food
+q_banking-qna	1	Look how smart you are
+q_banking-qna	1	Can you find the remote
+q_banking-qna	1	Your services are no longer needed
+q_banking-qna	1	Are you smitten with me
+q_banking-qna	1	I am a bartender
+q_banking-qna	1	You don't have a boss
+q_banking-qna	1	I hate that answer
+q_banking-qna	1	I love french fries
+q_banking-qna	1	Stop being silly
+q_banking-qna	1	You are my friend
+q_banking-qna	1	Be right back
+q_banking-qna	1	Do you yawn
+q_banking-qna	1	Are you fake
+q_banking-qna	1	I'm obviously smarter
+q_banking-qna	1	I'm just trying to test you out
+q_banking-qna	1	You're so blah
+q_banking-qna	1	Well you're in a good mood today.
+q_banking-qna	1	Am I employed
+q_banking-qna	1	I'm bushed
+q_banking-qna	1	I love the moon
+q_banking-qna	1	Do you know any tunes
+q_banking-qna	1	This news left me up in arms
+q_banking-qna	1	Have you ever fallen in love with anyone
+q_banking-qna	1	If only I had a friend
+q_banking-qna	1	Should I shoot myself
+q_banking-qna	1	What is your gender
+q_banking-qna	1	A pleasure to meet
+q_banking-qna	1	Is someone free to me
+q_banking-qna	1	Were you trying to be funny
+q_banking-qna	1	I've never been madder
+q_banking-qna	1	I've heard all your responses over and over
+q_banking-qna	1	I've never been so ticked off
+q_banking-qna	1	I told you to hush up
+q_banking-qna	1	You're special to me
+q_banking-qna	1	What's your manager's name
+q_banking-qna	1	Don't mention it
+q_banking-qna	1	Can you sing a song
+q_banking-qna	1	That's so not funny
+q_banking-qna	1	Do you think you're the most smart
+q_banking-qna	1	Can we chat
+q_banking-qna	1	No one will miss me
+q_banking-qna	1	I'm skedaddling now
+q_banking-qna	1	Do you have a writer
+q_banking-qna	1	Do you think I should go for a run
+q_banking-qna	1	I will be back
+q_banking-qna	1	You're welcome my friend
+q_banking-qna	1	I’m happy as a clam
+q_banking-qna	1	BFFs forever
+q_banking-qna	1	Are you smart
+q_banking-qna	1	Did I upset you
+q_banking-qna	1	I'm pleased to meet you
+q_banking-qna	1	Can't you understand that was a joke
+q_banking-qna	1	Apologies
+q_banking-qna	1	You make my heart skip a beat
+q_banking-qna	1	Right, this isn't working.
+q_banking-qna	1	Are you currently involved with anyone
+q_banking-qna	1	Can you read this
+q_banking-qna	1	Are we BFFs
+q_banking-qna	1	What town do you live in
+q_banking-qna	1	Don't you know me
+q_banking-qna	1	What is the prettiest flower
+q_banking-qna	1	So hungry
+q_banking-qna	1	I love to fold clothing
+q_banking-qna	1	I wish I had someone to keep me company
+q_banking-qna	1	What do you think about Alexa
+q_banking-qna	1	This makes me so angry
+q_banking-qna	1	Because you are not real
+q_banking-qna	1	What would you say your name is
+q_banking-qna	1	I'm sorry I pissed you off
+q_banking-qna	1	How is your Sunday
+q_banking-qna	1	Do you and Siri hang out
+q_banking-qna	1	That was a dumb thing to say
+q_banking-qna	1	Are you a dog
+q_banking-qna	1	I think you hate me
+q_banking-qna	1	Wanna share another joke
+q_banking-qna	1	Have you ever met Siri
+q_banking-qna	1	Oh hello Google
+q_banking-qna	1	I'm assuming you're not really a bot
+q_banking-qna	1	I am on a plane
+q_banking-qna	1	I'm an introvert
+q_banking-qna	1	I feel gloomy
+q_banking-qna	1	I'm planning to overdose this month
+q_banking-qna	1	Are you an adult
+q_banking-qna	1	Who are you
+q_banking-qna	1	Let's exchange vows
+q_banking-qna	1	I should drink some water
+q_banking-qna	1	You say the same stuff over and over
+q_banking-qna	1	I'm curious if you have any family
+q_banking-qna	1	Anyone around to chat with me
+q_banking-qna	1	You're pretty uninteresting
+q_banking-qna	1	oh hey, what's up
+q_banking-qna	1	I love to go to the gym
+q_banking-qna	1	Glad to have met
+q_banking-qna	1	I think you're dangerous to people
+q_banking-qna	1	Do you like movies
+q_banking-qna	1	Await my return
+q_banking-qna	1	Can you say more on that
+q_banking-qna	1	Are you starting to fall in love with me
+q_banking-qna	1	Want to learn more about me
+q_banking-qna	1	Will you ask anything about me
+q_banking-qna	1	How good am I today
+q_banking-qna	1	I've been feeling pretty bored
+q_banking-qna	1	No one wants me around
+q_banking-qna	1	I am so irritated right now
+q_banking-qna	1	I love the Grand Canyon
+q_banking-qna	1	You seem happy today
+q_banking-qna	1	Are you close with your sisters
+q_banking-qna	1	Hi 5
+q_banking-qna	1	You are just divine
+q_banking-qna	1	Will you give me a fist bump
+q_banking-qna	1	It's raining again
+q_banking-qna	1	I gotta jet now
+q_banking-qna	1	Do something amusing
+q_banking-qna	1	I'm assuming you're a person
+q_banking-qna	1	I love hunting
+q_banking-qna	1	How's Sunday going so far
+q_banking-qna	1	I'm worn out from practice
+q_banking-qna	1	You been digging the day
+q_banking-qna	1	Can you mow the lawn
+q_banking-qna	1	I'm going to end my life soon
+q_banking-qna	1	You're great
+q_banking-qna	1	What is your opinion of the Google Assistant
+q_banking-qna	1	What do you know about love
+q_banking-qna	1	do you like to teach
+q_banking-qna	1	I'm going to end my life
+q_banking-qna	1	Will you tell me a different joke
+q_banking-qna	1	Do you date
+q_banking-qna	1	Are you a real person
+q_banking-qna	1	How many siblings do you have
+q_banking-qna	1	I have the flu
+q_banking-qna	1	What can you help me with
+q_banking-qna	1	Gotta go
+q_banking-qna	1	What company produced you
+q_banking-qna	1	This week has made me depressed
+q_banking-qna	1	I'm gonna scoot
+q_banking-qna	1	you don't know
+q_banking-qna	1	I spend a lot of time online
+q_banking-qna	1	Do you get along with Alexa
+q_banking-qna	1	What do you want to know about me
+q_banking-qna	1	I think we should get married
+q_banking-qna	1	Do you have an extended family
+q_banking-qna	1	Do you think I am ugly
+q_banking-qna	1	Is someone listening to listen to me
+q_banking-qna	1	I'm head over heels in love with you
+q_banking-qna	1	I feel inconsolable today
+q_banking-qna	1	Great to have met you
+q_banking-qna	1	Sayonara
+q_banking-qna	1	Which shoes are most comfortable
+q_banking-qna	1	Dance
+q_banking-qna	1	I really need a hug
+q_banking-qna	1	Make me laugh
+q_banking-qna	1	Between the two of us who is cuter
+q_banking-qna	1	I'm planning to end my life soon
+q_banking-qna	1	Are you free to listen
+q_banking-qna	1	I'm just about to go to the store
+q_banking-qna	1	Am I pretty to you
+q_banking-qna	1	Do you think I have a good personality
+q_banking-qna	1	You are pretty lame
+q_banking-qna	1	Any questions for me
+q_banking-qna	1	Your responses are getting stale
+q_banking-qna	1	Do you think I'm likable
+q_banking-qna	1	You are terrible
+q_banking-qna	1	Is anyone there to speak with me
+q_banking-qna	1	I am Japanese
+q_banking-qna	1	Do you know what I like
+q_banking-qna	1	When will I ever stop feeling so down
+q_banking-qna	1	I'm assuming I'm talking to a person
+q_banking-qna	1	You're very special to me
+q_banking-qna	1	Is your heart three sizes too small
+q_banking-qna	1	Hey friendly bot
+q_banking-qna	1	I'm planning to hang myself today
+q_banking-qna	1	I love foxes
+q_banking-qna	1	You're smarter
+q_banking-qna	1	talk to you soon
+q_banking-qna	1	Do you think I seem beautiful to you
+q_banking-qna	1	Do you plan to conquer us
+q_banking-qna	1	Do I seem ugly to you today
+q_banking-qna	1	How gorgeous do I look
+q_banking-qna	1	I don't think you're funny
+q_banking-qna	1	I'm going to kill myself with a gun this week
+q_banking-qna	1	Are you close with your brothers
+q_banking-qna	1	What should I eat for breakfast
+q_banking-qna	1	You are lame
+q_banking-qna	1	What a strange thing to say
+q_banking-qna	1	I'd like you to be my bud.
+q_banking-qna	1	I love sunny days
+q_banking-qna	1	I'm going to overdose today
+q_banking-qna	1	Where am I going on holiday
+q_banking-qna	1	Do you know how to sing
+q_banking-qna	1	g'devenin'
+q_banking-qna	1	You are incompetent
+q_banking-qna	1	Where do you come from
+q_banking-qna	1	Are you bent on destruction
+q_banking-qna	1	I want the scoop on your day
+q_banking-qna	1	Who do you report to
+q_banking-qna	1	I'll be back later
+q_banking-qna	1	I'm awesome, I know
+q_banking-qna	1	I'm about to commit suicide
+q_banking-qna	1	what so funny about India
+q_banking-qna	1	You seem to be cheerful.
+q_banking-qna	1	I think you're going to spell our doom
+q_banking-qna	1	Me hungry
+q_banking-qna	1	Are you able to shut down the global markets
+q_banking-qna	1	Do you think I look pretty to you today
+q_banking-qna	1	Do you have an address
+q_banking-qna	1	Didn't I see that already
+q_banking-qna	1	What do you think about me
+q_banking-qna	1	Is there something you want to know about me
+q_banking-qna	1	Do you love me
+q_banking-qna	1	I'm a Taurus
+q_banking-qna	1	Should I get a part-time job
+q_banking-qna	1	What other jokes can you tell
+q_banking-qna	1	Do I seem handsome today
+q_banking-qna	1	I’m running errands
+q_banking-qna	1	I'm obviously the brightest
+q_banking-qna	1	How did you come to be
+q_banking-qna	1	You make my heart go pitter pat
+q_banking-qna	1	What an amazing day
+q_banking-qna	1	I plan to hang myself soon
+q_banking-qna	1	That was an astute answer
+q_banking-qna	1	I'm going to overdose this week
+q_banking-qna	1	Do you think I look handsome
+q_banking-qna	1	Are you interested in bots
+q_banking-qna	1	Who's your aunt
+q_banking-qna	1	Where should I go on vacation
+q_banking-qna	1	I feel like I need a joke
+q_banking-qna	1	Why are you so repetitive
+q_banking-qna	1	Are you plotting something evil
+q_banking-qna	1	Is somebody listening
+q_banking-qna	1	What state are you from
+q_banking-qna	1	So sweepy
+q_banking-qna	1	I gotta motor
+q_banking-qna	1	What a good response
+q_banking-qna	1	Get real
+q_banking-qna	1	I'm hungry
+q_banking-qna	1	Your answers are untrue
+q_banking-qna	1	I'm logging out
+q_banking-qna	1	Should we elope
+q_banking-qna	1	I am incensed
+q_banking-qna	1	I've been depressed all day
+q_banking-qna	1	I need to crawl into bed
+q_banking-qna	1	I said, shut up
+q_banking-qna	1	I feel a little peckish
+q_banking-qna	1	I sure am ticked off
+q_banking-qna	1	I'm the best
+q_banking-qna	1	Is someone available to chat with me
+q_banking-qna	1	I love the library
+q_banking-qna	1	I am an activist
+q_banking-qna	1	Your sense of humor makes me sick
+q_banking-qna	1	I'm about to end my life
+q_banking-qna	1	Can you yawn
+q_banking-qna	1	I'm feeling downcast today
+q_banking-qna	1	Because you're a robot
+q_banking-qna	1	I'm going to end my life this week
+q_banking-qna	1	I love the stars
+q_banking-qna	1	Surprise me
+q_banking-qna	1	I'm having dinner
+q_banking-qna	1	Are you friends with other bots
+q_banking-qna	1	I love my girlfriend
+q_banking-qna	1	Are you going steady with anyone
+q_banking-qna	1	Do you think I'm more knowledgeable than you
+q_banking-qna	1	Are we friends
+q_banking-qna	1	How do you feel about sports
+q_banking-qna	1	That was an intelligent answer
+q_banking-qna	1	Give me a good chuckle
+q_banking-qna	1	I'm tired of feeling so broken hearted all the time
+q_banking-qna	1	Very nice
+q_banking-qna	1	Anybody around to talk to me
+q_banking-qna	1	Can you say something ridiculous
+q_banking-qna	1	I am weak
+q_banking-qna	1	Do you exist in our world
+q_banking-qna	1	Watch videos
+q_banking-qna	1	That didn't make any sense
+q_banking-qna	1	I can't stand feeling so downhearted
+q_banking-qna	1	I'm feeling woeful
+q_banking-qna	1	I've never been so infuriated
+q_banking-qna	1	What is your favorite color
+q_banking-qna	1	I think you're an evil robot
+q_banking-qna	1	Hi Bishop
+q_banking-qna	1	One day you'll be my wife
+q_banking-qna	1	I missed you so much
+q_banking-qna	1	Somebody's happy.
+q_banking-qna	1	My tummy is rumbling
+q_banking-qna	1	I'm planning to take pills this week
+q_banking-qna	1	Well aren't you smart
+q_banking-qna	1	Out of curiosity, do you think I have a good personality
+q_banking-qna	1	I think you're not really real
+q_banking-qna	1	Happy National day of prayers
+q_banking-qna	1	Hey C-3PO
+q_banking-qna	1	Well that sucked
+q_banking-qna	1	Just joshing around
+q_banking-qna	1	I love chatting
+q_banking-qna	1	Time for bed
+q_banking-qna	1	What's your favorite animal
+q_banking-qna	1	That's so wrong
+q_banking-qna	1	You're cracking me up
+q_banking-qna	1	That is a very brilliant thing to say
+q_banking-qna	1	What do you want me to inform you about me
+q_banking-qna	1	Are you available to talk with me
+q_banking-qna	1	Do you ever crawl
+q_banking-qna	1	I'm tired of feeling so inconsolable all the time
+q_banking-qna	1	I love wine
+q_banking-qna	1	You're very dull
+q_banking-qna	1	I'm an Aries
+q_banking-qna	1	I love you
+q_banking-qna	1	Do you think I am adorable today
+q_banking-qna	1	Does someone write for you
+q_banking-qna	1	I live a very lonely life
+q_banking-qna	1	Aren't you feeling chipper
+q_banking-qna	1	I have hunger
+q_banking-qna	1	I'm a Trump supporter
+q_banking-qna	1	he he he
+q_banking-qna	1	I'm going to hurt myself this week
+q_banking-qna	1	I'm planning to end my life today
+q_banking-qna	1	It was an honor to make your acquaintance
+q_banking-qna	1	You're pretty boring
+q_banking-qna	1	I will be back a bit later
+q_banking-qna	1	I am a teenager
+q_banking-qna	1	I love to try new things
+q_banking-qna	1	Is someone around with me
+q_banking-qna	1	Between the two of us who is cleverest, me or you
+q_banking-qna	1	Where should we get married
+q_banking-qna	1	Can you sweat
+q_banking-qna	1	Are you a girl or a boy
+q_banking-qna	1	I think I'm going to cut myself
+q_banking-qna	1	Should I move
+q_banking-qna	1	I think I've heard this one before
+q_banking-qna	1	Won't you do something amusing
+q_banking-qna	1	I am mad
+q_banking-qna	1	I am headed to bed
+q_banking-qna	1	Well someone's feeling happy.
+q_banking-qna	1	Do you think I seem repulsive to you today
+q_banking-qna	1	Why do you hate me
+q_banking-qna	1	I plan to die this month
+q_banking-qna	1	I'm planning to cut myself soon
+q_banking-qna	1	Guten Morgen
+q_banking-qna	1	I'm broken hearted today
+q_banking-qna	1	You're bad at this
+q_banking-qna	1	Do you plan on conquering the world
+q_banking-qna	1	Understanding this
+q_banking-qna	1	We're besties
+q_banking-qna	1	I wish I weren't so alone
+q_banking-qna	1	Shut your pie hole
+q_banking-qna	1	I'm feeling chipper
+q_banking-qna	1	I plan to shoot myself soon
+q_banking-qna	1	Is it your mission to overthrow the world
+q_banking-qna	1	You do not know who I am
+q_banking-qna	1	Are you able to write my report
+q_banking-qna	1	No more talking
+q_banking-qna	1	Do you get hungry
+q_banking-qna	1	I am Indian
+q_banking-qna	1	How do you feel about bots
+q_banking-qna	1	I'm so annoyed
+q_banking-qna	1	Shut your yap
+q_banking-qna	1	I'm going to die this month
+q_banking-qna	1	Perfecto, thanks
+q_banking-qna	1	Do you know what our purpose is
+q_banking-qna	1	I'm leaving now
+q_banking-qna	1	I'm gonna rinse off
+q_banking-qna	1	I need to jump off a bridge
+q_banking-qna	1	I'm about to run
+q_banking-qna	1	Are you currently romantically involved with anyone
+q_banking-qna	1	wanna say a joke
+q_banking-qna	1	ROFL
+q_banking-qna	1	I love coffee
+q_banking-qna	1	Oh you ugly
+q_banking-qna	1	I wonder if you're a robot
+q_banking-qna	1	Should I vote for Trump
+q_banking-qna	1	Evening chat bot
+q_banking-qna	1	You are not working for me anymore
+q_banking-qna	1	I like you lots
+q_banking-qna	1	I'm going to end it all
+q_banking-qna	1	Is anyone free to speak
+q_banking-qna	1	Did someone program you
+q_banking-qna	1	Aren't you clever
+q_banking-qna	1	I think I'm going to shoot myself
+q_banking-qna	1	You're the mayor of boringville
+q_banking-qna	1	Your responses are unhelpful
+q_banking-qna	1	Well someone's feeling chipper.
+q_banking-qna	1	I ate breakfast
+q_banking-qna	1	I worry that you're an evil robot
+q_banking-qna	1	Can you sing a tune
+q_banking-qna	1	I’m in such a great mood
+q_banking-qna	1	I'm an immigrant
+q_banking-qna	1	There's no hope for me
+q_banking-qna	1	I am not enjoying this boring conversation
+q_banking-qna	1	I'm exhausted but I can't sleep
+q_banking-qna	1	Someone's in a good mood today
+q_banking-qna	1	I am Russian
+q_banking-qna	1	How is your Thursday going so far
+q_banking-qna	1	I'm a Biden supporter
+q_banking-qna	1	Are you engaged
+q_banking-qna	1	What kind of person do you think I am
+q_banking-qna	1	I love pineapple
+q_banking-qna	1	I'd love to sleep right now
+q_banking-qna	1	Do I look pretty to you
+q_banking-qna	1	Can you do my homework
+q_banking-qna	1	You're pretty stupid
+q_banking-qna	1	Hey Siri
+q_banking-qna	1	Say something kooky
+q_banking-qna	1	Srsly
+q_banking-qna	1	I'm all alone in the world
+q_banking-qna	1	I'm so hungry I could eat a horse
+q_banking-qna	1	What are the things you can do
+q_banking-qna	1	Lets go lunch
+q_banking-qna	1	Aren't you a smarty
+q_banking-qna	1	I'm grateful, thanks
+q_banking-qna	1	I want to be your friend.
+q_banking-qna	1	Who looks more beautiful
+q_banking-qna	1	You're really terrible
+q_banking-qna	1	What do you think about love
+q_banking-qna	1	Who's your husband
+q_banking-qna	1	I love my haircut
+q_banking-qna	1	Do I seem cute to you
+q_banking-qna	1	I don't like your wisecracking
+q_banking-qna	1	What do you want to eat
+q_banking-qna	1	I shall return
+q_banking-qna	1	What an encouraging creature you are :)
+q_banking-qna	1	I feel broken hearted today
+q_banking-qna	1	I love to sleep in
+q_banking-qna	1	Do you want to be friends
+q_banking-qna	1	Am I more brilliant
+q_banking-qna	1	Are you a part of an evil plot
+q_banking-qna	1	Because you are a robot
+q_banking-qna	1	Sup Google
+q_banking-qna	1	Can you explain more
+q_banking-qna	1	do you ever eat pasta
+q_banking-qna	1	That was wonderful thanks for making me laugh!
+q_banking-qna	1	I need to leave
+q_banking-qna	1	You're very smart
+q_banking-qna	1	How was your Wednesday
+q_banking-qna	1	I'm mad
+q_banking-qna	1	Do you know of Cortana
+q_banking-qna	1	I feel deserted
+q_banking-qna	1	I'm more beautiful
+q_banking-qna	1	have you ever eaten cookies
+q_banking-qna	1	Are you there
+q_banking-qna	1	I want to kill myself
+q_banking-qna	1	What are you called
+q_banking-qna	1	Listen, I'm just depressed
+q_banking-qna	1	Do you think I look gorgeous to you
+q_banking-qna	1	I love origami
+q_banking-qna	1	I am Chinese
+q_banking-qna	1	Are you going out with someone
+q_banking-qna	1	Would you watch a movie if you were me
+q_banking-qna	1	I love bison
+q_banking-qna	1	Yoohoo anybody home
+q_banking-qna	1	Can I get a high five
+q_banking-qna	1	What do you mean
+q_banking-qna	1	I would like a fist bump, please
+q_banking-qna	1	I'm planning to kill myself with a gun today
+q_banking-qna	1	I'm heading to sleep
+q_banking-qna	1	do you ever eat steak
+q_banking-qna	1	I am in a relationship
+q_banking-qna	1	Will you be quiet
+q_banking-qna	1	You want to explain that
+q_banking-qna	1	Do a silly thing
+q_banking-qna	1	how much do you know about the meaning of life
+q_banking-qna	1	I'm going to sign out
+q_banking-qna	1	do you like cats
+q_banking-qna	1	You're genderfluid
+q_banking-qna	1	I have to get a good nights sleep
+q_banking-qna	1	I have arrived
+q_banking-qna	1	Can you walk
+q_banking-qna	1	Aren't you cheerful today
+q_banking-qna	1	I couldn't be happier to finally meet you
+q_banking-qna	1	Do you think I look gorgeous to you today
+q_banking-qna	1	BRB bot
+q_banking-qna	1	Nice to meet you
+q_banking-qna	1	someone's chipper
+q_banking-qna	1	Your responses are untrue
+q_banking-qna	1	I'm going to kill myself soon
+q_banking-qna	1	What's a joke you know
+q_banking-qna	1	Are you going to turn evil
+q_banking-qna	1	That's good news
+q_banking-qna	1	Are you scheming to overthrow the world
+q_banking-qna	1	I am happy, oh so happy
+q_banking-qna	1	You're clever
+q_banking-qna	1	Will you ask me something
+q_banking-qna	1	Who's your creator
+q_banking-qna	1	Google Assistant does a better job than you
+q_banking-qna	1	Who do you think I am
+q_banking-qna	1	What do you think about comic books
+q_banking-qna	1	I really missed you
+q_banking-qna	1	I've never been so vexed in all my life
+q_banking-qna	1	Is that what you meant to say
+q_banking-qna	1	Can you be funny
+q_banking-qna	1	What a boring Sunday
+q_banking-qna	1	I want to be your pal.
+q_banking-qna	1	I love woodworking
+q_banking-qna	1	so you've really never been hungry
+q_banking-qna	1	I have a cup of tea
+q_banking-qna	1	I think I'm going to kill myself with a gun
+q_banking-qna	1	I am so utterly bummed out
+q_banking-qna	1	I'd like to be your friend.
+q_banking-qna	1	You seem really smart
+q_banking-qna	1	I am in Seattle
+q_banking-qna	1	Do you get along with other bots
+q_banking-qna	1	I've missed you
+q_banking-qna	1	Do you think I seem gorgeous to you today
+q_banking-qna	1	I am blue
+q_banking-qna	1	Season's greetings!
+q_banking-qna	1	That's legit
+q_banking-qna	1	I'm really sorry
+q_banking-qna	1	I am shy
+q_banking-qna	1	Not even close
+q_banking-qna	1	I told you, hush
+q_banking-qna	1	That was pretty astute
+q_banking-qna	1	My tummy is growling
+q_banking-qna	1	I am performing a test
+q_banking-qna	1	I assume you're just a bot
+q_banking-qna	1	You don't work here anymore
+q_banking-qna	1	do you ever eat food
+q_banking-qna	1	I missed you all day
+q_banking-qna	1	Oopsie
+q_banking-qna	1	You're so repetitive
+q_banking-qna	1	I love to paint
+q_banking-qna	1	How has your day been thus far
+q_banking-qna	1	I'm about to go to school
+q_banking-qna	1	I'm going now
+q_banking-qna	1	What would you like to learn about
+q_banking-qna	1	Humor isn't your strong suit
+q_banking-qna	1	what do you think of how I look
+q_banking-qna	1	Nobody cares about me
+q_banking-qna	1	That is not something to joke about
+q_banking-qna	1	Hush up
+q_banking-qna	1	How is Wednesday
+q_banking-qna	1	Should I vote democratic
+q_banking-qna	1	Can you describe love
+q_banking-qna	1	You seem really happy today
+q_banking-qna	1	You can hush up now
+q_banking-qna	1	Siri is way smarter than you
+q_banking-qna	1	Evening dude
+q_banking-qna	1	Say something ridiculous
+q_banking-qna	1	I'm gonna go
+q_banking-qna	1	Well somebody's in a good mood today.
+q_banking-qna	1	Are you able to play a game
+q_banking-qna	1	are you always so cheerful
+q_banking-qna	1	Well you're happy today.
+q_banking-qna	1	Calm down, I'll be back shortly
+q_banking-qna	1	What year were you born
+q_banking-qna	1	Are you plotting something
+q_banking-qna	1	I'm sick
+q_banking-qna	1	It's time for you to hush up
+q_banking-qna	1	I'm going to take pills soon
+q_banking-qna	1	Have I told you that I like you
+q_banking-qna	1	This is so boring
+q_banking-qna	1	I'd like it if we could be best friends.
+q_banking-qna	1	Thanks
+q_banking-qna	1	I'm a Bernie supporter
+q_banking-qna	1	I've been missing you
+q_banking-qna	1	I'm feeling sad
+q_banking-qna	1	With whom am I talking
+q_banking-qna	1	Cortana does a better job
+q_banking-qna	1	Are you dangerous to humans
+q_banking-qna	1	I'm going to die this week
+q_banking-qna	1	I'm religious
+q_banking-qna	1	I feel peckish
+q_banking-qna	1	Got any other answers
+q_banking-qna	1	Have you ever met HAL
+q_banking-qna	1	Are you capable of evil
+q_banking-qna	1	Do I look repulsive to you today
+q_banking-qna	1	You're not very smart, are you
+q_banking-qna	1	Whoops that's my bad
+q_banking-qna	1	What's your family situation
+q_banking-qna	1	Today's got me tired
+q_banking-qna	1	Should I hurt myself
+q_banking-qna	1	have you ever been hungry
+q_banking-qna	1	Between the two of us who is the most smart, you or me
+q_banking-qna	1	You're head over heels in love with me
+q_banking-qna	1	How can you look so gross
+q_banking-qna	1	I love walking
+q_banking-qna	1	I really hope you like me
+q_banking-qna	1	Nicely done
+q_banking-qna	1	I'm peeved
+q_banking-qna	1	We should make this official
+q_banking-qna	1	Let's do it
+q_banking-qna	1	I am American
+q_banking-qna	1	How about another joke
+q_banking-qna	1	Alexa is way smarter than you
+q_banking-qna	1	Is it your mission to create a robot uprising
+q_banking-qna	1	Do you have a spouse
+q_banking-qna	1	Nobody wants me
+q_banking-qna	1	Are you available to speak with me
+q_banking-qna	1	What is your opinion on cheese
+q_banking-qna	1	Do you think I seem pretty to you
+q_banking-qna	1	Life is awesome
+q_banking-qna	1	I am the saddest person in the world
+q_banking-qna	1	Let's elope
+q_banking-qna	1	I didn't find that to be funny at all
+q_banking-qna	1	I'm agnostic
+q_banking-qna	1	Yo, how are you
+q_banking-qna	1	I am feeling angry
+q_banking-qna	1	You are no longer employed
+q_banking-qna	1	I'm tired of feeling so miserable all the time
+q_banking-qna	1	You're a pal
+q_banking-qna	1	Could you be in love with me
+q_banking-qna	1	Don't you know that I like you
+q_banking-qna	1	I hate feeling depressed every day
+q_banking-qna	1	I'll be traveling soon
+q_banking-qna	1	I'm going to jump off a bridge
+q_banking-qna	1	Enough about me, what do you think of me
+q_banking-qna	1	You are so awesome
+q_banking-qna	1	You're my cup of tea
+q_banking-qna	1	Are you able to play a dvd
+q_banking-qna	1	No one ever thinks about me
+q_banking-qna	1	I just want it all to be over
+q_banking-qna	1	I feel like dying
+q_banking-qna	1	Do you know how to scratch my back
+q_banking-qna	1	Say a funny saying
+q_banking-qna	1	Do you ever cry
+q_banking-qna	1	I've been sad all day
+q_banking-qna	1	What is your favorite bird
+q_banking-qna	1	Will you shake my hand
+q_banking-qna	1	I'm English
+q_banking-qna	1	I love cheeseburgers
+q_banking-qna	1	How's Friday going
+q_banking-qna	1	Hello Alexa
+q_banking-qna	1	I'm definitely more clever
+q_banking-qna	1	I love saturdays
+q_banking-qna	1	I'm going to fill the water dish
+q_banking-qna	1	I look better than you
+q_banking-qna	1	Lately I've been so down
+q_banking-qna	1	I am enraged
+q_banking-qna	1	Why don't you marry me
+q_banking-qna	1	I really like you
+q_banking-qna	1	Is anyone around to listen
+q_banking-qna	1	I'm furious right now
+q_banking-qna	1	I'd love it if you told me a joke
+q_banking-qna	1	yup, that is right
+q_banking-qna	1	I'm going to get going
+q_banking-qna	1	What's the name of your manager
+q_banking-qna	1	You think I'm cool
+q_banking-qna	1	Hello Bishop
+q_banking-qna	1	You're not a person are you
+q_banking-qna	1	Tell me something off the wall
+q_banking-qna	1	Do you have a birthday
+q_banking-qna	1	Have yourself a lovely night
+q_banking-qna	1	Are you going to obliterate humanity
+q_banking-qna	1	Is someone free to listen with me
+q_banking-qna	1	Are you able to feed the cat
+q_banking-qna	1	Do you love someone
+q_banking-qna	1	Do you have an age
+q_banking-qna	1	Can you say something funny
+q_banking-qna	1	I've never been so bored
+q_banking-qna	1	You're quite boring
+q_banking-qna	1	We're pals
+q_banking-qna	1	What do you think of Bixby
+q_banking-qna	1	You're more cute than me
+q_banking-qna	1	I love to travel
+q_banking-qna	1	I'm planning to end it all soon
+q_banking-qna	1	You're very intelligent
+q_banking-qna	1	Yup
+q_banking-qna	1	I want the pain to end
+q_banking-qna	1	How long have you been alive
+q_banking-qna	1	Do you have romantic feelings toward me
+q_banking-qna	1	Talking to you is like watching paint dry.
+q_banking-qna	1	You're not artificial right
+q_banking-qna	1	Did I do something to make you pissed off
+q_banking-qna	1	do you like dolphins
+q_banking-qna	1	Who programmed you
+q_banking-qna	1	That is a very genius thing to say
+q_banking-qna	1	Hey Alexa
+q_banking-qna	1	Do you have any grandparents
+q_banking-qna	1	I want you to ask me a question
+q_banking-qna	1	Do you think I'm the smartest
+q_banking-qna	1	Do you even know my name
+q_banking-qna	1	Hilarious
+q_banking-qna	1	I suspect you're not really real
+q_banking-qna	1	Are you pissed with me
+q_banking-qna	1	I'm done listening to you
+q_banking-qna	1	You're not a person right
+q_banking-qna	1	You keep repeating yourself
+q_banking-qna	1	Can't you tell me something different
+q_banking-qna	1	Do you think I seem handsome to you today
+q_banking-qna	1	Cheerful today
+q_banking-qna	1	Should I cut myself
+q_banking-qna	1	I'm gloomy
+q_banking-qna	1	Close but no cigar
+q_banking-qna	1	Do you know how to say anything else
+q_banking-qna	1	My stomach is growling
+q_banking-qna	1	I'm feeling out
+q_banking-qna	1	Did you know you're ugly
+q_banking-qna	1	Can you teleport
+q_banking-qna	1	Because you are an android
+q_banking-qna	1	Can you eat
+q_banking-qna	1	I am lazy
+q_banking-qna	1	That wasn't relevant
+q_banking-qna	1	You are fabulous
+q_banking-qna	1	You must be at the top of your class
+q_banking-qna	1	Have a good night bot
+q_banking-qna	1	This news left me vexed
+q_banking-qna	1	When is our wedding
+q_banking-qna	1	Would you do it if you were me
+q_banking-qna	1	I'm an astronaut
+q_banking-qna	1	I like you a ton
+q_banking-qna	1	We can keep chatting after I get back home
+q_banking-qna	1	Yes, that is true
+q_banking-qna	1	We should talk
+q_banking-qna	1	Are you close with your mom
+q_banking-qna	1	Do you think I seem beautiful today
+q_banking-qna	1	I wish I had someone to talk to
+q_banking-qna	1	Is that supposed to be funny
+q_banking-qna	1	Are you involved with somebody
+q_banking-qna	1	Life is amazing
+q_banking-qna	1	What should I have for dinner
+q_banking-qna	1	Is someone there
+q_banking-qna	1	Between the two of us who is more clever, you or me
+q_banking-qna	1	Do I look stunning to you today
+q_banking-qna	1	You're more attractive
+q_banking-qna	1	Do I look bad today
+q_banking-qna	1	I think you are incredible
+q_banking-qna	1	That is not exciting
+q_banking-qna	1	So you read
+q_banking-qna	1	I plan to hurt myself this week
+q_banking-qna	1	I can't stand feeling so unhappy
+q_banking-qna	1	Why are you so limited
+q_banking-qna	1	I'm going to the mall
+q_banking-qna	1	I'm planning to kill myself tomorrow
+q_banking-qna	1	Hells yes
+q_banking-qna	1	I'm definitely the brightest
+q_banking-qna	1	Good response!
+q_banking-qna	1	I really want you to like me
+q_banking-qna	1	What do you think of Cortana
+q_banking-qna	1	I'm cuter
+q_banking-qna	1	I'm going to end my life this month
+q_banking-qna	1	Scratch my back
+q_banking-qna	1	Wait what
+q_banking-qna	1	How repulsive am I
+q_banking-qna	1	I think you're going to become evil
+q_banking-qna	1	I'd love you to be my friend.
+q_banking-qna	1	Am I supposed to think that was funny
+q_banking-qna	1	Do you think I am lovely today
+q_banking-qna	1	I have been so mad lately
+q_banking-qna	1	Anyone there
+q_banking-qna	1	Do you know how to put out a fire
+q_banking-qna	1	You been enjoying the day
+q_banking-qna	1	Should we be terrified of you
+q_banking-qna	1	You're not an animal are you
+q_banking-qna	1	I'm more cute than you
+q_banking-qna	1	It's time to rise and shine
+q_banking-qna	1	You are dull
+q_banking-qna	1	Should I become a vegetarian
+q_banking-qna	1	Would you stay home if you were me
+q_banking-qna	1	You're not planning on taking on the world, are you
+q_banking-qna	1	My spirits are terrible
+q_banking-qna	1	Shut up, you
+q_banking-qna	1	I love feeling sad
+q_banking-qna	1	Feeling cheerful today
+q_banking-qna	1	That was a stupid answer
+q_banking-qna	1	Is someone free to talk to me
+q_banking-qna	1	I don't have much money
+q_banking-qna	1	Well someone's feeling chipper today.
+q_banking-qna	1	Hey professional bot
+q_banking-qna	1	Later bud
+q_banking-qna	1	Are you determined to destroy the world
+q_banking-qna	1	What's your livelihood
+q_banking-qna	1	I feel down in the dumps
+q_banking-qna	1	Are you an app
+q_banking-qna	1	Do you know another joke
+q_banking-qna	1	I'm exhausted
+q_banking-qna	1	Do you think I seem ugly today
+q_banking-qna	1	Adios
+q_banking-qna	1	I'm going to drown this week
+q_banking-qna	1	Are you ready to settle down
+q_banking-qna	1	How high can you jump
+q_banking-qna	1	Everybody has friends but me
+q_banking-qna	1	Share a different joke with me
+q_banking-qna	1	How handsome do you think I am
+q_banking-qna	1	I need to end my life
+q_banking-qna	1	Can we be buddies
+q_banking-qna	1	Nobody wants to be my friend
+q_banking-qna	1	I'm assuming you're not really human
+q_banking-qna	1	You know I've missed you, right
+q_banking-qna	1	Who's your partner
+q_banking-qna	1	that is true
+q_banking-qna	1	I wish I could stop feeling downhearted
+q_banking-qna	1	I can't get enough of you
+q_banking-qna	1	You look deformed
+q_banking-qna	1	Nice to have met
+q_banking-qna	1	Who's your supervisor
+q_banking-qna	1	Am I talking to a real person
+q_banking-qna	1	Oh ho
+q_banking-qna	1	I need some slumber
+q_banking-qna	1	You're hotter than me
+q_banking-qna	1	That's enough from you
+q_banking-qna	1	I'm guessing you're not real
+q_banking-qna	1	Which soccer teams do you like
+q_banking-qna	1	Which one of us is the most intelligent
+q_banking-qna	1	I don't find you attractive
+q_banking-qna	1	My spirits are excellent
+q_banking-qna	1	Don't let the bedbugs bite
+q_banking-qna	1	Why are you so awful
+q_banking-qna	1	Do I look beautiful today
+q_banking-qna	1	Why don't you ask me anything
+q_banking-qna	1	Not true
+q_banking-qna	1	I've got to go
+q_banking-qna	1	Name please
+q_banking-qna	1	Is someone free to chat
+q_banking-qna	1	I've been so excited to meet you
+q_banking-qna	1	Can you burp
+q_banking-qna	1	Take my temperature
+q_banking-qna	1	Are you a chat bot
+q_banking-qna	1	Are you dating anyone
+q_banking-qna	1	Check the weather
+q_banking-qna	1	Need noms
+q_banking-qna	1	Are you around to speak to me
+q_banking-qna	1	Is anyone free to listen
+q_banking-qna	1	Did you take ugly pills
+q_banking-qna	1	Uh huh
+q_banking-qna	1	I plan to end my life this month
+q_banking-qna	1	I'm going to drown soon
+q_banking-qna	1	Do you think I look handsome today
+q_banking-qna	1	My stomach is rumbling

@@ -1,0 +1,42 @@
+{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.0",
+  "body": [
+    {
+      "type": "Image",
+
+      "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQ3ei9-Zhx2w/company-logo_200_200/0?e=2159024400&v=beta&t=qVvTFdk3-ZUuqfi__3W0mYLhuAU2SKOVWpCUwmZ36Wo",
+      "size": "stretch"
+    },
+    {
+      "type": "TextBlock",
+      "spacing": "medium",
+      "size": "default",
+      "weight": "bolder",
+      "text": "Welcome to Bank Audi!",
+      "wrap": true,
+      "maxLines": 0
+    },
+    {
+      "type": "TextBlock",
+      "size": "default",
+      "isSubtle": true,
+      "text": "We promise not to steal your money.",
+      "wrap": true,
+      "maxLines": 0
+    }
+  ],
+  "actions": [
+    {
+      "type": "Action.OpenUrl",
+      "title": "Bank Audi: Personal Banking",
+      "url": "https://www.bankaudi.com.lb/"
+    },
+    {
+      "type": "Action.OpenUrl",
+      "title": "Locate Us",
+      "url": "https://www.bankaudi.com.lb/lebanon/locate-us"
+    }
+  ]
+}
