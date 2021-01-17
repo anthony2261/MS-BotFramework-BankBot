@@ -1,5 +1,5 @@
 # MS-BotFramework-BankBot
-Bot built using MS BotFramework for a Bank
+Bot built using MS BotFramework for a Bank. Uses LUIS intent classifier, QnA Maker to answer FAQ, and TextAnalytics for sentiment analysis.
 
 # Prerequisites
 A ".env" file containing:
